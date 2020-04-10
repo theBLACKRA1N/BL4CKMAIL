@@ -10,7 +10,7 @@ class bcolors:
 
 def banner():
     print(bcolors.YELLOW + '  [BL4CKMAIL v1.1]')
-    print(bcolors.YELLOW + '[ made with python v3.6 ]')
+    print(bcolors.YELLOW + '[ made with python v3.6.5 ]')
     print(bcolors.YELLOW + '''
             __________
           _/##########\_             ____________________
@@ -25,11 +25,11 @@ def banner():
         |####/#######\###|           Created By: BLACKRA1N
         # ###\###### / ###
          #\_# | ### | #_/#
-         ### # ##### ### ## 
+         ### # ##### ### # 
          ##  ###  # #  #
-          #    #  # ##    #
-          #           ##
-         #         #    #
+          #    #  # ##  #
+          #   #        ##
+         #        #    #
     ''')
 class BL4CKMAIL:
     count = 0
