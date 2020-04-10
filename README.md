@@ -15,7 +15,7 @@
 ##
 **python bl4ckmail.py**
 ## Shoppy
-*Link below to Shoppy. I sell accounts and hand written methods written by me :)*
+*Link below to Shoppy. I sell accounts and homemade methods written by me :)*
 ##
 **[https://shoppy.gg/@BLACKRAIN/](https://shoppy.gg/@BLACKRAIN/)**
 ## Contact:
