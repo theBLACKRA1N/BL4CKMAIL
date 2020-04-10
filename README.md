@@ -18,4 +18,5 @@
 *Wire app - @theblackrain*
 *I was going to put my email but noticed this is an email bombing thing lol XD*
 
-## Made with Python 3.6.5** - [https://www.python.org/](https://www.python.org/)
+## Made with Python 3.6.5 
+**[https://www.python.org/](https://www.python.org/)**
