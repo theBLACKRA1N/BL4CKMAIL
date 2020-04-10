@@ -10,7 +10,9 @@
 *If using a GMAIL or YAHOO account, change the settings in your account to "Less Secure Apps". This allows the python script to send emails using their servers.*
 ## Installation:
 **git clone  https://github.com/theBLACKRA1N/BL4CKMAIL**
+##
 **cd BL4CKMAIL**
+##
 **python bl4ckmail.py**
 ## Contact:
 *Wire app - @theblackrain*
