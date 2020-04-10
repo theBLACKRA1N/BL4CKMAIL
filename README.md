@@ -1,5 +1,5 @@
 *#python* *#python 3* *#email* *#bomb* *#bomber* *#code* *#walk-through* *#hacking* *#info-sec* *#security* *#mass* *#spam* *#create*
-*#how* *#to* *#code* *#script* *#kiddie* *#bl4ckmail* *#mail* *#blackra1n
+*#how* *#to* *#code* *#script* *#kiddie* *#bl4ckmail* *#mail* *#blackra1n*
 
 
 ![alt text](https://raw.githubusercontent.com/theBLACKRA1N/BL4CKMAIL/master/bl4ckmail.jpeg)
