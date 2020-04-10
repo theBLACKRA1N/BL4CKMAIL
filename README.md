@@ -14,6 +14,10 @@
 **cd BL4CKMAIL**
 ##
 **python bl4ckmail.py**
+## Shoppy
+*Link below to Shoppy. I sell accounts and hand written methods written by me :)*
+##
+**[https://shoppy.gg/@BLACKRAIN/](https://shoppy.gg/@BLACKRAIN/)**
 ## Contact:
 *Wire app - @theblackrain*
 *I was going to put my email but noticed this is an email bombing thing lol XD*
